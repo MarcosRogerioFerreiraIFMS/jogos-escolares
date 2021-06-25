@@ -1,0 +1,6 @@
+entidade/Pessoa.class
+entidade/Escola.class
+dao/EscolaDAO.class
+banco/Conexao.class
+entidade/Atleta.class
+formulario/TesteEscola.class
